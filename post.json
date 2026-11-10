@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "content": "Learning"
+  },
+  {
+    "id": 2,
+    "userId": 1,
+    "content": "hello world "
+  },
+  {
+    "id": 3,
+    "userId": 2,
+    "content": "just writing "
+  },
+  {
+    "id": 4,
+    "userId": 9,
+    "content": "My first post"
+  }
+]
